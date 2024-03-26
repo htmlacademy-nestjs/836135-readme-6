@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Сергей Морозов](https://up.htmlacademy.ru/nodejs-2/6/user/836135).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Осипук](https://htmlacademy.ru/profile/id616431).
 
 ---
 
