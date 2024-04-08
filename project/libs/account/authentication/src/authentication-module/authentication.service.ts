@@ -1,5 +1,4 @@
 import { ConflictException, Injectable } from '@nestjs/common';
-import dayjs from 'dayjs';
 import { BlogUserRepository, BlogUserEntity } from '@project/blog-user';
 import { CreateUserDto } from '../dto/create-user.dto';
 import { AUTH_USER_EXISTS } from './authentication.constant';
